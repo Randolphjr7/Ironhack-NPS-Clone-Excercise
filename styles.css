@@ -1,0 +1,138 @@
+
+
+nav {
+    background-color: #C12127;
+    color: rgba(255, 255, 255, 0.8);
+    padding-top: 15px;
+    height: 100px;
+}
+
+
+nav a{
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+.top-links {
+    display: inline-block;
+    float: right;
+    padding: 0;
+    margin: 0 20px 0 0;
+}
+
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+header {
+    font: white;
+    background: rgb(32, 101, 136);
+}
+
+
+
+#logo img {
+    display: inline-block;
+}
+
+#logo {
+    font: white;
+    background: rgb(31, 82, 111);
+}
+
+#logo a {
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    float: right;
+}
+
+#intro {
+    color: white;
+    height: 400px;
+    background-image: url(images/city-scape.svg);
+}
+
+#intro h1 {
+    padding-top: 20px;
+    margin: 0;
+}
+
+#whatText h2 {
+    margin: 0;
+    padding-top: 20px;
+}
+
+
+#intro a {
+    color: white;
+    text-decoration: none;
+    background: rgb(240, 146, 51);
+}
+
+#firstBox {
+    background: rgb(39, 53, 71);
+}
+
+#firstBox img {
+    height: 400px;
+    width: 400px;
+}
+
+#collaboration {
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    float: right;
+}
+
+#collaboration a {
+    color: white;
+    background: rgb(203, 56, 55);
+    text-decoration: none;
+}
+
+#what {
+    color: white;
+    background-image: url(images/forklift.svg); 
+    background-size: cover;
+}
+
+#what a {
+    color: white;
+    text-decoration: none;
+    background: rgb(49, 68, 88)
+}
+
+#whatText {
+    width: 30%;
+}
+
+#thirdBox {
+    width: 80%;
+    color: white;
+    margin: 0 auto;
+}
+
+#thirdBoxIntro {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    color: rgb(83, 88, 98);
+}
+
+#thirdBoxlogos {
+    text-align: center;
+    display: flex;
+    margin: 0 20%;
+    color: rgb(135, 145, 156);
+}
+
+#thirdBoxlogos a {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+
+
+
